@@ -9,6 +9,6 @@ linkedin_username: alissachan
 github_username:  alissach
 
 # Build settings
-highlighter: rouge
+highlighter:
 markdown: kramdown
 
