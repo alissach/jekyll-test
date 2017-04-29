@@ -12,3 +12,5 @@ github_username:  alissach
 highlighter:
 markdown: kramdown
 
+sass:
+    sass_dir: _sass
